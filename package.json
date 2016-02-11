@@ -1,0 +1,24 @@
+{
+  "name": "appium-helper",
+  "version": "0.0.1",
+  "description": "App for dealing with android settings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrakashGoulla/io.appium.helper.git"
+  },
+  "keywords": [
+    "appium",
+    "settings",
+    "unlock"
+  ],
+  "author": "https://github.com/appium",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrakashGoulla/io.appium.helper/issues"
+  },
+  "homepage": "https://github.com/PrakashGoulla/io.appium.helper#readme"
+}
